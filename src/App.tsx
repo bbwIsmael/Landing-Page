@@ -98,7 +98,7 @@ function App() {
           <div className="transform hover:-translate-y-2 transition duration-300">
             <div className="bg-gray-900 rounded-[2.5rem] p-4 border-[14px] border-gray-900 shadow-xl">
               <img 
-                src="/Screenshot%202025-04-08%20130351.png"
+                src="/1st-view.png"
                 alt="Weather Home Screen" 
                 className="w-[250px] rounded-[1.5rem]"
               />
@@ -107,7 +107,7 @@ function App() {
           <div className="transform hover:-translate-y-2 transition duration-300 -mt-12 lg:mt-24">
             <div className="bg-gray-900 rounded-[2.5rem] p-4 border-[14px] border-gray-900 shadow-xl">
               <img 
-                src="/2nd%20view.png"
+                src="/2nd-view.png"
                 alt="Weather Forecast Screen" 
                 className="w-[250px] rounded-[1.5rem]"
               />
@@ -116,7 +116,7 @@ function App() {
           <div className="transform hover:-translate-y-2 transition duration-300">
             <div className="bg-gray-900 rounded-[2.5rem] p-4 border-[14px] border-gray-900 shadow-xl">
               <img 
-                src="/3rd%20view.png"
+                src="/3rd-view.png"
                 alt="Weather Settings Screen" 
                 className="w-[250px] rounded-[1.5rem]"
               />
